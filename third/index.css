@@ -1,0 +1,50 @@
+.grey{
+    background-color: grey;
+    width: 100%;
+    height: 15vh;
+}
+.bluesqr{
+    background-color: blue;
+    width: 7%;
+    height: 80%;
+    position: relative;
+    top: 10px;
+    margin: 10px;
+}
+.pg{
+    width: 100%;
+    height: 30vh;
+    background-color: white;
+    position: relative;
+    top:0;
+    
+}
+.blue {
+    width: 100%;
+    height: 15vh;
+    background-color: blue;
+    position: relative;
+    top:0;
+}
+.teal{
+    width: 100%;
+    height: 15vh;
+    background-color:teal;
+    position: relative;
+    top:0;
+}
+.green{
+    width: 100%;
+    height: 15vh;
+    background-color: yellowgreen;
+    position: relative;
+    top:0;
+}
+.yellow{
+    width: 100%;
+    height: 15vh;
+    background-color:yellow;
+    position: relative;
+    top:0;
+}
+

@@ -1,0 +1,24 @@
+.top{
+    background-color: #444444;
+    height: 20vh;
+    width: 100%;
+    }
+  .mid{
+      background-color: #EFEFEF;
+      height:75vh;
+      width:75%;
+      margin: 0 auto;
+  }
+  .bot{
+      background-color: black;      
+      position:absolute;
+      bottom: 0;
+      left:12.9%;
+      height: 10vh;
+      width: 75%;
+  }
+  body{
+      background-color: #D8D8D8;
+      height: 100%;
+      width: 100%;
+  }
